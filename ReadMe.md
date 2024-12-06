@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-💬 Tenho 18 anos e estou no 3° semestre de Técnico em Informática.<br>🔭 Estou à procura de uma oportunidade de estágio.<br>🌱 No momento estou aprendendo Java, HTML 5, CSS e JavaScript.<br>⚡ Tenho como objetivo me tornar um programador Full-Stack.<br>
+💬 Tenho 19 anos e sou formado em Técnico em Informática.<br>🔭 Estou à procura de uma oportunidade de estágio.<br>🌱 No momento estou aperfeiçoando meus conhecimentos em Java, HTML, CSS, JavaScript e React.<br>⚡ Tenho como objetivo me tornar um programador Front-End.<br>
 
 
 # 💻 Tech Stack:
