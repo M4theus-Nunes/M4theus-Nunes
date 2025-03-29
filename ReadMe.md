@@ -7,8 +7,6 @@
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=M4theus-Nunes&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=M4theus-Nunes&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M4theus-Nunes&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=M4theus-Nunes&icon=5&color=8)](https://visitcount.itsvg.in)
 
