@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-💬 Tenho 19 anos e sou formado em Técnico em Informática.<br>🔭 Estou à procura de uma oportunidade de estágio.<br>🌱 No momento estou aperfeiçoando meus conhecimentos em Java, HTML, CSS, JavaScript e React.<br>⚡ Tenho como objetivo me tornar um programador Full Stack.<br>
+💬 Tenho 19 anos, sou formado em Técnico em Informática e estou cursando Ciência da Computação.<br>🔭 Estou à procura de uma oportunidade de estágio.<br>🌱 No momento estou aperfeiçoando meus conhecimentos em Python, Java, HTML, CSS, JavaScript, React e banco de dados SQL.<br>⚡ Tenho como objetivo me tornar um programador Full Stack.<br>
 
 
 # 💻 Tech Stack:
