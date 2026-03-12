@@ -24,7 +24,6 @@ Olá! Meu nome é **Matheus Nunes**, tenho **20 anos** e sou apaixonado por tecn
 
 # 🧰 Tecnologias e Ferramentas
 
-<div align="center">
 <table>
 <tr>
 <td align="center"><strong>Frontend</strong></td>
@@ -59,7 +58,6 @@ Olá! Meu nome é **Matheus Nunes**, tenho **20 anos** e sou apaixonado por tecn
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
