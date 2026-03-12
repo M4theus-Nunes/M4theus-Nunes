@@ -24,28 +24,13 @@ Olá! Meu nome é **Matheus Nunes**, tenho **20 anos** e sou apaixonado por tecn
 
 # 🧰 Tecnologias e Ferramentas
 
-### Front-end
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react" />
+</p>
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![React](https://skillicons.dev/icons?i=react)
-
-### Back-end
-
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-
-### Banco de Dados
-
-![Database](https://skillicons.dev/icons?i=postgres)
-
-### Ferramentas e DevOps
-
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,postgres,docker,git,github" />
+</p>
 
 ---
 
