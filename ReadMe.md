@@ -10,8 +10,6 @@ Olá! Meu nome é **Matheus Nunes**, tenho **20 anos** e sou apaixonado por tecn
 
 🎯 Meu objetivo é me tornar um **Desenvolvedor Full Stack**, capaz de construir aplicações completas — desde a interface do usuário até a lógica de negócio e banco de dados.
 
-📚 Estou sempre estudando, desenvolvendo projetos e buscando evoluir minhas habilidades para conquistar uma **oportunidade de estágio ou posição como desenvolvedor**.
-
 ---
 
 # 🧰 Tecnologias e Ferramentas
