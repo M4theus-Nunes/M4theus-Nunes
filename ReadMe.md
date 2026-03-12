@@ -29,8 +29,7 @@ Olá! Meu nome é **Matheus Nunes**, tenho **20 anos** e sou apaixonado por tecn
 
 ### Banco de Dados
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
-<img height="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
+![Database](https://skillicons.dev/icons?i=postgres)
 
 ### Ferramentas e DevOps
 
