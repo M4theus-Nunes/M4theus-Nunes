@@ -1,13 +1,69 @@
-# 💫 Sobre mim:
-💬 Tenho 19 anos, sou formado em Técnico em Informática e estou cursando Ciência da Computação.<br>🔭 Estou à procura de uma oportunidade de estágio.<br>🌱 No momento estou aperfeiçoando meus conhecimentos em Python, Java, HTML, CSS, JavaScript, React e banco de dados SQL.<br>⚡ Tenho como objetivo me tornar um programador Full Stack.<br>
+# 👨‍💻 Matheus Nunes
 
+## 🚀 Sobre mim
 
-# 💻 Habilidades Técnicas:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=M4theus-Nunes&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=M4theus-Nunes&theme=vue-dark&hide_border=true)<br/>
+Olá! Meu nome é **Matheus Nunes**, tenho **20 anos** e sou apaixonado por tecnologia e desenvolvimento de software.
+
+🎓 Sou **formado em Técnico em Informática** e atualmente estou cursando **Ciência da Computação**, aprofundando meus conhecimentos em programação, lógica, estruturas de dados e desenvolvimento de sistemas.
+
+💻 Tenho experiência com desenvolvimento **front-end e back-end**, trabalhando com tecnologias modernas da web e também com linguagens utilizadas em aplicações robustas.
+
+🎯 Meu objetivo é me tornar um **Desenvolvedor Full Stack**, capaz de construir aplicações completas — desde a interface do usuário até a lógica de negócio e banco de dados.
+
+📚 Estou sempre estudando, desenvolvendo projetos e buscando evoluir minhas habilidades para conquistar uma **oportunidade de estágio ou posição como desenvolvedor**.
+
 ---
-[![](https://visitcount.itsvg.in/api?id=M4theus-Nunes&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧰 Tecnologias e Ferramentas
+
+### Front-end
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
+
+### Back-end
+
+![Java](https://skillicons.dev/icons?i=java)
+
+### Banco de Dados
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### Ferramentas e DevOps
+
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=M4theus-Nunes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=M4theus-Nunes&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4theus-Nunes&layout=compact&theme=tokyonight&hide_border=true"/>
+
+---
+
+# 📈 Contribuições
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M4theus-Nunes&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🌐 Contato
+
+💼 LinkedIn:
+https://linkedin.com/in/matheus-nunes-c
+
+📧 Email:
+([matheus.nunes@email.com](mailto:matheus.nunes@email.com))
+
+---
+
+⭐ *Sempre aberto para aprender, colaborar e desenvolver projetos interessantes.*
