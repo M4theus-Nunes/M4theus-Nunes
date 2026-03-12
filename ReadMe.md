@@ -41,11 +41,11 @@ Olá! Meu nome é **Matheus Nunes**, tenho **20 anos** e sou apaixonado por tecn
 
 # 📊 Estatísticas do GitHub
 
+<p>
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=M4theus-Nunes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=M4theus-Nunes&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4theus-Nunes&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
