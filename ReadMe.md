@@ -30,7 +30,7 @@ Olá! Meu nome é **Matheus Nunes**, tenho **20 anos** e sou apaixonado por tecn
 ### Banco de Dados
 
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img height="48" src="https://cdn.simpleicons.org/oracle/F80000" />
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Ferramentas e DevOps
