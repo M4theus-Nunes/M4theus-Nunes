@@ -24,13 +24,40 @@ Olá! Meu nome é **Matheus Nunes**, tenho **20 anos** e sou apaixonado por tecn
 
 # 🧰 Tecnologias e Ferramentas
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react" />
-</p>
+<table>
+<tr>
+<td align="center"><strong>Frontend</strong></td>
+<td align="center"><strong>Backend</strong></td>
+<td align="center"><strong>Banco de Dados</strong></td>
+<td align="center"><strong>DevOps & Tools</strong></td>
+</tr>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,postgres,docker,git,github" />
-</p>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" height="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" height="40"/>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</td>
+</tr>
+</table>
 
 ---
 
